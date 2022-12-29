@@ -1,0 +1,7 @@
+ekkaamkr heNumberAddkr(pahilaNumber, dusraNumber) {
+    animhane doghanchaAddition = pahilaNumber + dusraNumber
+
+    ghe doghanchaAddition
+}
+
+lihi(heNumberAddkr(1, 4))
